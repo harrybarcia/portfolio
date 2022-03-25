@@ -10,11 +10,6 @@ import AWS from '../assets/aws.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
-import Symfony from '../assets/2symfony.png';
-import Python from '../assets/2python.png';
-import Bootstrap from '../assets/2bootstrap.png';
-import Laravel from '../assets/2laravel.png';
-import Phpmyadmin from '../assets/2phpmyadmin.png';
 
 const Skills = () => {
   return (
@@ -56,28 +51,8 @@ const Skills = () => {
                   <p className='my-4'>MONGO DB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Symfony} alt="HTML icon" />
-                  <p className='my-4'>SYMFONY</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Bootstrap} alt="HTML icon" />
-                  <p className='my-4'>BOOTSTRAP</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Laravel} alt="HTML icon" />
-                  <p className='my-4'>LARAVEL</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Python} alt="HTML icon" />
-                  <p className='my-4'>PYTHON</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={AWS} alt="HTML icon" />
                   <p className='my-4'>AWS</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Phpmyadmin} alt="HTML icon" />
-                  <p className='my-4'>PHPMYADMIN</p>
               </div>
           </div>
       </div>
