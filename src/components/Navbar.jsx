@@ -78,13 +78,13 @@ const Navbar = () => {
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='skills' smooth={true} duration={500}>
+          <Link onClick={handleClick} to='skills' offset={-70} smooth={true} duration={500}>
             Skills
           </Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='work' smooth={true} duration={500}>
+          <Link onClick={handleClick} to='work' offset={-70} smooth={true} duration={500}>
             Work
           </Link>
         </li>
@@ -113,14 +113,6 @@ const Navbar = () => {
               href='https://github.com/harrybarcia/'
             >
               Github <FaGithub size={30} />
-            </a>
-          </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
-            <a
-              className='flex justify-between items-center w-full text-gray-300'
-              href='/'
-            >
-              Email <HiOutlineMail size={30} />
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>

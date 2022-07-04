@@ -17,9 +17,11 @@ const About = () => {
               <p>Hi. I'm Harry, nice to meet you.</p>
             </div>
             <div>
-              <p>With 7+ years working in GIS (Geographic and Information System) and Web-mapping applications, I have excellent data management, strong reasoning and troubleshooting abilities.</p>
+              <p>I have 1+ year of experience as a Junior full-stack developer. I specially love working with back-end environments (Symfony, Php, node.js)</p>
               <br />
-              <p>   I particularly love working with back-end environments, servers and large data sets. If you're interested please send me an email at barcia.harry@gmail.com</p>  
+              <p> As a software developer in Vancouver, I developed new features with Node.js, Express.js, Typescript and PostgreSQL. I am currently looking for a new challenge!
+                
+                </p>  
             </div>
           </div>
       </div>
