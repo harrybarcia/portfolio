@@ -19,7 +19,7 @@ const About = () => {
             <div>
               <p>I have 1+ year of experience as a Junior full-stack developer. I specially love working with back-end environments (Symfony, Php, node.js)</p>
               <br />
-              <p> As a software developer in Vancouver, I developed new features with Node.js, Express.js, Typescript and PostgreSQL. I am currently looking for a new challenge!
+              <p> I am currently looking for a new challenge!
                 
                 </p>  
             </div>
